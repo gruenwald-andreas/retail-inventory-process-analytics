@@ -41,4 +41,8 @@ The relational schema separates master data from daily transactional records:
 * **Fresh Produce as Primary Loss Driver:** Short shelf lives lead to disproportionate shrinkage costs when order quantities are static.
 * **Dynamic Reorder Thresholds:** Fixed reorder points cause weekend stockouts. Implementing automated SQL threshold alerts enables dynamic order adjustments aligned with weekday demand patterns.
 
+### Process Optimization (As-Is vs. To-Be)
 ![Process Optimization Diagram](docs/process_optimization.png)
+
+### BI Dashboard (Power BI)
+![Power BI Dashboard](dashboard/powerbi_dashboard.png)
