@@ -1,0 +1,7 @@
+product_name,category,total_shrinkage,days_below_reorder_point,recommended_action
+Organic Whole Milk 1L,Fresh,807,76,Critical: Adjust order cycle
+Chicken Breast Fillet 400g,Fresh,798,87,Critical: Adjust order cycle
+Vine Tomatoes 500g,Fresh,771,78,Critical: Adjust order cycle
+Spaghetti 500g,Dry Goods,0,94,Increase reorder point
+Coffee Beans Crema 1kg,Dry Goods,0,80,Increase reorder point
+Mineral Water Classic 1.5L,Beverages,0,80,Increase reorder point
